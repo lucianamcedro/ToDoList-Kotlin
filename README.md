@@ -1,4 +1,4 @@
-# App To Do - Tarefas
+# App To Do - Tarefas :calendar:
 Aplicativo de crianção de tarefas e lembretes em Kotlin criado durante o Bootcamp da DIO[NTT DATA]
 
 
